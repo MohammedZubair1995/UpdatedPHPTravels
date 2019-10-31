@@ -1,0 +1,85 @@
+[main] INFO  Copy_PHP.Test_Case_1Test  - Launching the browser
+[main] INFO  Copy_PHP.Test_Case_1Test  - Registering the user
+[main] INFO  Copy_PHP.Test_Case_1Test  - Registration validation Pass
+[main] INFO  Copy_PHP.Test_Case_2Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_2Test  - Enter the city name
+[main] INFO  Copy_PHP.Test_Case_2Test  - select the check in date
+[main] INFO  Copy_PHP.Test_Case_2Test  - select the check out date
+[main] INFO  Copy_PHP.Test_Case_2Test  - Select number of guests
+[main] INFO  Copy_PHP.Test_Case_2Test  - Hotel search page is displayed
+[main] INFO  Copy_PHP.Test_Case_2Test  - Hotel search is Passed
+[main] INFO  Copy_PHP.Test_Case_3Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_3Test  - enter from city
+[main] INFO  Copy_PHP.Test_Case_3Test  - enter to city
+[main] INFO  Copy_PHP.Test_Case_3Test  - Select the date
+[main] INFO  Copy_PHP.Test_Case_3Test  - Select the number of guests
+[main] INFO  Copy_PHP.Test_Case_3Test  - flight search paassed
+[main] INFO  Copy_PHP.Test_Case_4Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_4Test  - Select the tour city
+[main] INFO  Copy_PHP.Test_Case_4Test  - Select the tour type
+[main] INFO  Copy_PHP.Test_Case_4Test  - select the date
+[main] INFO  Copy_PHP.Test_Case_4Test  - Select the number of guests
+[main] INFO  Copy_PHP.Test_Case_4Test  - Tour search passed
+[main] INFO  Copy_PHP.Test_Case_5Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_5Test  - Log into the account
+[main] INFO  Copy_PHP.Test_Case_5Test  - Login validation passed
+[main] INFO  Copy_PHP.Test_Case_1Test  - Launching the browser
+[main] INFO  Copy_PHP.Test_Case_2Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_3Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_4Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_5Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_1Test  - Registering the user
+[main] INFO  Copy_PHP.Test_Case_2Test  - Enter the city name
+[main] INFO  Copy_PHP.Test_Case_2Test  - select the check in date
+[main] INFO  Copy_PHP.Test_Case_2Test  - select the check out date
+[main] INFO  Copy_PHP.Test_Case_3Test  - enter from city
+[main] INFO  Copy_PHP.Test_Case_3Test  - enter to city
+[main] INFO  Copy_PHP.Test_Case_3Test  - Select the date
+[main] INFO  Copy_PHP.Test_Case_4Test  - Select the tour city
+[main] INFO  Copy_PHP.Test_Case_5Test  - Log into the account
+[main] INFO  Copy_PHP.Test_Case_1Test  - Registration validation Pass
+[main] INFO  Copy_PHP.Test_Case_1Test  - Launching the browser
+[main] INFO  Copy_PHP.Test_Case_2Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_3Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_4Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_5Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_1Test  - Registering the user
+[main] INFO  Copy_PHP.Test_Case_2Test  - Enter the city name
+[main] INFO  Copy_PHP.Test_Case_2Test  - select the check in date
+[main] INFO  Copy_PHP.Test_Case_2Test  - select the check out date
+[main] INFO  Copy_PHP.Test_Case_3Test  - enter from city
+[main] INFO  Copy_PHP.Test_Case_3Test  - enter to city
+[main] INFO  Copy_PHP.Test_Case_3Test  - Select the date
+[main] INFO  Copy_PHP.Test_Case_4Test  - Select the tour city
+[main] INFO  Copy_PHP.Test_Case_5Test  - Log into the account
+[main] INFO  Copy_PHP.Test_Case_1Test  - Registration validation Pass
+[main] INFO  Copy_PHP.Test_Case_1Test  - Launching the browser
+[main] INFO  Copy_PHP.Test_Case_2Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_3Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_4Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_5Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_1Test  - Registering the user
+[main] INFO  Copy_PHP.Test_Case_2Test  - Enter the city name
+[main] INFO  Copy_PHP.Test_Case_2Test  - select the check in date
+[main] INFO  Copy_PHP.Test_Case_2Test  - select the check out date
+[main] INFO  Copy_PHP.Test_Case_3Test  - enter from city
+[main] INFO  Copy_PHP.Test_Case_3Test  - enter to city
+[main] INFO  Copy_PHP.Test_Case_3Test  - Select the date
+[main] INFO  Copy_PHP.Test_Case_4Test  - Select the tour city
+[main] INFO  Copy_PHP.Test_Case_5Test  - Log into the account
+[main] INFO  Copy_PHP.Test_Case_1Test  - Registration validation Pass
+[main] INFO  Copy_PHP.Test_Case_1Test  - Launching the browser
+[main] INFO  Copy_PHP.Test_Case_2Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_3Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_4Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_5Test  - Launch the browser
+[main] INFO  Copy_PHP.Test_Case_1Test  - Registering the user
+[main] INFO  Copy_PHP.Test_Case_2Test  - Enter the city name
+[main] INFO  Copy_PHP.Test_Case_2Test  - select the check in date
+[main] INFO  Copy_PHP.Test_Case_2Test  - select the check out date
+[main] INFO  Copy_PHP.Test_Case_3Test  - enter from city
+[main] INFO  Copy_PHP.Test_Case_3Test  - enter to city
+[main] INFO  Copy_PHP.Test_Case_3Test  - Select the date
+[main] INFO  Copy_PHP.Test_Case_4Test  - Select the tour city
+[main] INFO  Copy_PHP.Test_Case_5Test  - Log into the account
+[main] INFO  Copy_PHP.Test_Case_1Test  - Registration validation Pass
